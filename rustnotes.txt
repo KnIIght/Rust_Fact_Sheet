@@ -1,0 +1,38 @@
+To download Rust on linux or Mac run command - curl https://sh.rustup.rs -sSf | sh
+To reference and of the Rust docs you can run the command - rustup doc
+
+File Extension: .rs
+Rust compiler: rustc
+
+Rust comes with a package manager and build tool called Cargo
+  -cargo --version
+  -cargo build
+    -build your project
+  -cargo run
+    -run your project
+  -cargo test
+    -test your project
+  -cargo doc
+    -build documentation for your project
+  -cargo publish
+    -publish library to crates.io
+
+Editors compatible with Rust:
+  -Atom
+  -VS Code
+  -Eclipse
+  -Vim
+  -Sublime Text 3
+  -Emacs
+
+Good starting point for the language:
+  -https://doc.rust-lang.org/stable/rust-by-example/
+  -Has a bunch of Rust by example code
+
+-Rust has its own compiler
+
+-There are a lot of applications of rust that can be utilized
+
+-Examples
+  -hello world basic example
+  
